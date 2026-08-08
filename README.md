@@ -1,4 +1,4 @@
- # Spatial-Temporal Video Classification for Shoplifting Detection
+ # Shoplifting Detection
 
 This repository contains a PyTorch implementation of a 3D CNN-based spatial-temporal video classification model designed to distinguish between **normal shopping behavior** and **shoplifting/theft acts** in retail surveillance footage. 
 
